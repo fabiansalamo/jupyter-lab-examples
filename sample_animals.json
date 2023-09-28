@@ -1,0 +1,107 @@
+[
+    {
+        "Name": "Luna",
+        "Species": "Dog",
+        "Color": "Black",
+        "Weight": 25.5,
+        "Height": 18,
+        "Gender": "Female",
+        "Age": 3,
+        "FavoriteFoods": [
+            "Chicken",
+            "Beef",
+            "Pork"
+        ],
+        "NestedObject": {
+            "NestedProperty": "NestedValue",
+            "NestedArray": [
+                "NestedArrayValue1",
+                "NestedArrayValue2"
+            ]
+        }
+    },
+    {
+        "Name": "Max",
+        "Species": "Cat",
+        "Color": "Orange",
+        "Weight": 10.2,
+        "Height": 12,
+        "Gender": "Male",
+        "Age": 5,
+        "FavoriteFoods": [
+            "Chicken",
+            "Beef",
+            "Pork"
+        ],
+        "NestedObject": {
+            "NestedProperty": "NestedValue",
+            "NestedArray": [
+                "NestedArrayValue1",
+                "NestedArrayValue2"
+            ]
+        }
+    },
+    {
+        "Name": "Rocky",
+        "Species": "Turtle",
+        "Color": "Green",
+        "Weight": 2,
+        "Height": 6,
+        "Gender": "Male",
+        "Age": 10,
+        "FavoriteFoods": [
+            "Chicken",
+            "Beef",
+            "Pork"
+        ],
+        "NestedObject": {
+            "NestedProperty": "NestedValue",
+            "NestedArray": [
+                "NestedArrayValue1",
+                "NestedArrayValue2"
+            ]
+        }
+    },
+    {
+        "Name": "Bella",
+        "Species": "Rabbit",
+        "Color": "White",
+        "Weight": 5.2,
+        "Height": 8,
+        "Gender": "Female",
+        "Age": 2,
+        "FavoriteFoods": [
+            "Chicken",
+            "Beef",
+            "Pork"
+        ],
+        "NestedObject": {
+            "NestedProperty": "NestedValue",
+            "NestedArray": [
+                "NestedArrayValue1",
+                "NestedArrayValue2"
+            ]
+        }
+    },
+    {
+        "Name": "Charlie",
+        "Species": "Hamster",
+        "Color": "Brown",
+        "Weight": 0.2,
+        "Height": 4,
+        "Gender": "Male",
+        "Age": 1,
+        "FavoriteFoods": [
+            "Chicken",
+            "Beef",
+            "Pork"
+        ],
+        "NestedObject": {
+            "NestedProperty": "NestedValue",
+            "NestedArray": [
+                "NestedArrayValue1",
+                "NestedArrayValue2"
+            ]
+        }
+    }
+]
