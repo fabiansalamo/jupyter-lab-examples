@@ -17,7 +17,14 @@
             "NestedArray": [
                 "NestedArrayValue1",
                 "NestedArrayValue2"
-            ]
+            ],
+            "NestedObject2": {
+                "NestedProperty2": "NestedValue",
+                "NestedArray2": [
+                    "NestedArrayValue1",
+                    "NestedArrayValue2"
+                ]
+            }
         }
     },
     {
