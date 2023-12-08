@@ -1,0 +1,159 @@
+{
+    "name": "jupyter-lab-examples",
+    "title": "This is the data package for jupyter-lab-examples",
+    "description": "This is the data package for jupyter-lab-examples",
+    "doi": "",
+    "version": "1.0.0",
+    "created": "2023-12-08T23:08:13.441Z",
+    "licenses": [
+        {
+            "title": "MIT License",
+            "path": "https://github.com/fabiansalamo/jupyter-lab-examples/blob/main/LICENSE",
+            "name": "MIT"
+        }
+    ],
+    "sources": [],
+    "resources": [
+        {
+            "name": "sample animals 20230911",
+            "description": "sample animals 20230911",
+            "path": "sample_animals_20230911.csv",
+            "format": "csv",
+            "doi": "",
+            "mediatype": "text/csv",
+            "bytes": 745,
+            "date": "2023-12-08T23:08:09.912Z",
+            "encoding": "utf-8",
+            "version": "1.0.0",
+            "language": "",
+            "schema": [
+                {
+                    "name": "Name",
+                    "type": "string",
+                    "description": "This is a sample value for the property (200 chars only) 'Name': Luna"
+                },
+                {
+                    "name": "Species",
+                    "type": "string",
+                    "description": "This is a sample value for the property (200 chars only) 'Species': Dog"
+                },
+                {
+                    "name": "Color",
+                    "type": "string",
+                    "description": "This is a sample value for the property (200 chars only) 'Color': Black"
+                },
+                {
+                    "name": "Weight",
+                    "type": "number",
+                    "description": "This is a sample value for the property 'Weight': 25.5"
+                },
+                {
+                    "name": "Height",
+                    "type": "number",
+                    "description": "This is a sample value for the property 'Height': 18"
+                },
+                {
+                    "name": "Gender",
+                    "type": "string",
+                    "description": "This is a sample value for the property (200 chars only) 'Gender': Female"
+                },
+                {
+                    "name": "Age",
+                    "type": "number",
+                    "description": "This is a sample value for the property 'Age': 3"
+                }
+            ],
+            "dialect": {
+                "quoteChar": "",
+                "doubleQuote": false,
+                "delimiter": ",",
+                "header": true,
+                "lineTerminator": "\"\\n\"",
+                "skipInitialSpace": ""
+            }
+        },
+        {
+            "name": "sample animals enquoted",
+            "description": "sample animals enquoted",
+            "path": "sample_animals_enquoted.csv",
+            "format": "csv",
+            "doi": "",
+            "mediatype": "text/csv",
+            "bytes": 755,
+            "date": "2023-12-08T23:08:10.623Z",
+            "encoding": "utf-8",
+            "version": "1.0.0",
+            "language": "",
+            "schema": [
+                {
+                    "name": "Name",
+                    "type": "string",
+                    "description": "This is a sample value for the property (200 chars only) 'Name': Luna"
+                },
+                {
+                    "name": "Species",
+                    "type": "string",
+                    "description": "This is a sample value for the property (200 chars only) 'Species': Dog"
+                },
+                {
+                    "name": "Color",
+                    "type": "string",
+                    "description": "This is a sample value for the property (200 chars only) 'Color': Black"
+                },
+                {
+                    "name": "Weight",
+                    "type": "number",
+                    "description": "This is a sample value for the property 'Weight': 25.5"
+                },
+                {
+                    "name": "Height",
+                    "type": "number",
+                    "description": "This is a sample value for the property 'Height': 18"
+                },
+                {
+                    "name": "Gender",
+                    "type": "string",
+                    "description": "This is a sample value for the property (200 chars only) 'Gender': Female"
+                },
+                {
+                    "name": "Age",
+                    "type": "number",
+                    "description": "This is a sample value for the property 'Age': 3"
+                }
+            ],
+            "dialect": {
+                "quoteChar": "\"",
+                "doubleQuote": true,
+                "delimiter": ",",
+                "header": true,
+                "lineTerminator": "\"\\n\"",
+                "skipInitialSpace": ""
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "title": "fabiansalamo",
+            "path": "https://github.com/fabiansalamo",
+            "email": "",
+            "role": "contributor"
+        }
+    ],
+    "privacy": [],
+    "security": [
+        {
+            "access": {
+                "level": "public",
+                "description": "Base security information, inferred when this data package was imported from Github",
+                "path": "https://api.github.com/repos/fabiansalamo/jupyter-lab-examples/contents/SECURITY.md",
+                "contributors": []
+            }
+        }
+    ],
+    "procedures": {
+        "collection": [],
+        "processing": [],
+        "update": []
+    },
+    "use": []
+}
