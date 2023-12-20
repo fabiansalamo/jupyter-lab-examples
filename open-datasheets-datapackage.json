@@ -1,0 +1,94 @@
+{
+    "name": "test-private-repo-updated-1",
+    "title": "This is the data package for test-private-repo",
+    "description": "This is the data package for test-private-repo",
+    "doi": "",
+    "version": "1.0.0",
+    "created": "2023-12-07T21:48:59.688Z",
+    "licenses": [
+        {
+            "title": "Apache License 2.0",
+            "path": "https://github.com/v-fsalamo_microsoft/test-private-repo/blob/main/LICENSE",
+            "name": "Apache-2.0"
+        }
+    ],
+    "sources": [],
+    "resources": [
+        {
+            "name": "test file",
+            "description": "test file",
+            "path": "test_file.xlsx",
+            "format": "xlsx",
+            "doi": "",
+            "mediatype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "bytes": 9026,
+            "date": "2023-12-07T21:48:57.290Z",
+            "encoding": "utf-8",
+            "version": "1.0.0",
+            "language": "",
+            "schema": [
+                {
+                    "name": "Sheet1.A",
+                    "type": "number",
+                    "description": "This is a sample value for the property 'A': 123"
+                },
+                {
+                    "name": "Sheet1.B",
+                    "type": "object",
+                    "description": "This is a sample value for the property 'B': Mon Oct 19 2020 21:00:00 GMT-0300 (Uruguay Standard Time)"
+                },
+                {
+                    "name": "Sheet1.C",
+                    "type": "string",
+                    "description": "This is a sample value for the property (200 chars only) 'C': Test"
+                },
+                {
+                    "name": "Sheet1.D",
+                    "type": "number",
+                    "description": "This is a sample value for the property 'D': 145"
+                }
+            ],
+            "dialect": {}
+        },
+        {
+            "name": "userdata1",
+            "description": "userdata1",
+            "path": "userdata1.parquet",
+            "format": "parquet",
+            "doi": "",
+            "mediatype": "application/parquet",
+            "bytes": 113629,
+            "date": "2023-12-01T03:00:00.000Z",
+            "encoding": "utf-8",
+            "version": "1.0.0",
+            "language": "",
+            "schema": [],
+            "dialect": {}
+        }
+    ],
+    "contributors": [
+        {
+            "title": "v-fsalamo_microsoft",
+            "path": "https://github.com/v-fsalamo_microsoft",
+            "email": "",
+            "role": "contributor"
+        }
+    ],
+    "privacy": [],
+    "security": [
+        {
+            "access": {
+                "level": "public",
+                "description": "No security information, was found when this data package was imported from Github.",
+                "path": "https://github.com/v-fsalamo_microsoft/test-private-repo",
+                "contributors": []
+            }
+        }
+    ],
+    "procedures": {
+        "collection": [],
+        "processing": [],
+        "update": []
+    },
+    "use": []
+}
